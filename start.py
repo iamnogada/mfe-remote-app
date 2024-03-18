@@ -5,5 +5,5 @@ if __name__ == "__main__":
         app="app.main:app",
         host="0.0.0.0",
         reload=True,
-        port=9020
+        port=9010
     )
